@@ -6,6 +6,6 @@ Feel free to give me any feedback about my code or even contribute by submiting 
 Contact
 If you have any questions, feedback, or suggestions regarding this repository, feel free to reach out to me:
 
-Name: Theodoros Islamidis
-Email: dai17029@uom.edu.gr
-LinkedIn: Theodoros Islamidis
+Name: Theodoros Islamidis<br>
+Email: dai17029@uom.edu.gr<br>
+LinkedIn: Theodoros Islamidis<br>
