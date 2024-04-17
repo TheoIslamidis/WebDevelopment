@@ -8,4 +8,4 @@ If you have any questions, feedback, or suggestions regarding this repository, f
 
 Name: Theodoros Islamidis<br>
 Email: dai17029@uom.edu.gr<br>
-LinkedIn: Theodoros Islamidis<br>
+LinkedIn: https://www.linkedin.com/in/theodoros-islamidis-aa241b235/
